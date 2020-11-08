@@ -98,3 +98,13 @@ public class Controller {
 			d.setY(SIZE);
 			name = "z";
 		} else { 
+			a.setX(XMAX / 2 - SIZE - SIZE);
+			b.setX(XMAX / 2 - SIZE);
+			c.setX(XMAX / 2);
+			d.setX(XMAX / 2 + SIZE);
+			name = "i";
+		}
+		return new Form(a, b, c, d, name);
+	}
+}	
+		
