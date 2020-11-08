@@ -18,3 +18,13 @@ add spacebar action
 
 #Purpose
 
+This is the final project for OOP course.
+By writing this project student learn classes.
+
+
+For entertainment :) enjoy your game.
+Good luck!
+
+![Tetris](thum.jpg)
+
+
